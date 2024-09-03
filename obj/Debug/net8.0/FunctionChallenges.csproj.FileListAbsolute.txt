@@ -1,0 +1,15 @@
+C:\Users\walee\sda-3-onsite-function-challenges\bin\Debug\net8.0\FunctionChallenges.exe
+C:\Users\walee\sda-3-onsite-function-challenges\bin\Debug\net8.0\FunctionChallenges.deps.json
+C:\Users\walee\sda-3-onsite-function-challenges\bin\Debug\net8.0\FunctionChallenges.runtimeconfig.json
+C:\Users\walee\sda-3-onsite-function-challenges\bin\Debug\net8.0\FunctionChallenges.dll
+C:\Users\walee\sda-3-onsite-function-challenges\bin\Debug\net8.0\FunctionChallenges.pdb
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\FunctionChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\FunctionChallenges.AssemblyInfoInputs.cache
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\FunctionChallenges.AssemblyInfo.cs
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\FunctionChallenges.csproj.CoreCompileInputs.cache
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\FunctionChallenges.sourcelink.json
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\FunctionChallenges.dll
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\refint\FunctionChallenges.dll
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\FunctionChallenges.pdb
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\FunctionChallenges.genruntimeconfig.cache
+C:\Users\walee\sda-3-onsite-function-challenges\obj\Debug\net8.0\ref\FunctionChallenges.dll
